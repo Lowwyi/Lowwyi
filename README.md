@@ -40,9 +40,9 @@ This is the technology I'm actively using and learning:
 
 ---
 
-### 📫 How to Connect With Me:
+### 📫 Connect With Me:
 
 * **LinkedIn:** [Your LinkedIn URL here]
 * **Email:** [Your Email here]
 
-> "Better to take a 1-day strategic stop, than to gas it now and be forced to stop for a week."
+> "1% progress is better than no progress at all."
