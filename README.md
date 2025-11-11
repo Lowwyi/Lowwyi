@@ -38,11 +38,4 @@ This is the technology I'm actively using and learning:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lowwyi&layout=compact&theme=dark)
 
----
-
-### 📫 Connect With Me:
-
-* **LinkedIn:** [https://www.linkedin.com/in/geraldo-prana-arevalo-40a416371]
-* **Email:** [geraldopranaa12@gmail.com]
-
 > "1% progress is better than no progress at all."
