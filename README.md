@@ -1,6 +1,6 @@
-## 👋 Hi there! I'm Geraldo (lowwyi)
+## 👋 Hi there! I'm lowwyi
 
-I'm a 3rd-semester Informatics Engineering student, deeply enthusiastic about **AI Engineering** and **Full-Stack Development**. I love turning complex ideas (especially in AI) into real, functional, and automated solutions.
+I'm a Informatics Engineering student, deeply enthusiastic about **AI Engineering** and **Full-Stack Development**. I love turning complex ideas (especially in AI) into real, functional, and automated solutions.
 
 ---
 
@@ -34,7 +34,7 @@ This is the technology I'm actively using and learning:
 
 (These stats update automatically!)
 
-![Geraldo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lowwyi&show_icons=true&theme=dark&rank_icon=github)
+![Lowwyi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lowwyi&show_icons=true&theme=dark&rank_icon=github)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lowwyi&layout=compact&theme=dark)
 
@@ -42,7 +42,7 @@ This is the technology I'm actively using and learning:
 
 ### 📫 Connect With Me:
 
-* **LinkedIn:** [Your LinkedIn URL here]
-* **Email:** [Your Email here]
+* **LinkedIn:** [https://www.linkedin.com/in/geraldo-prana-arevalo-40a416371]
+* **Email:** [geraldopranaa12@gmail.com]
 
 > "1% progress is better than no progress at all."
